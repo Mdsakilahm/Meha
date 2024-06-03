@@ -5,6 +5,7 @@ import Videopage from './components/Videopage'
 import Logopage from './components/Logopage'
 import Fourbox from './components/Fourbox'
 import Nextfourbox from './components/Nextfourbox'
+import Pricingboxpage from './components/Pricingboxpage'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Logopage/>
       <Fourbox/>
       <Nextfourbox/>
+      <Pricingboxpage/>
     </div>
   )
 }
