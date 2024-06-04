@@ -183,7 +183,7 @@ function Pricingboxpage() {
                     </div>
 
                 </div>
-                <button className='mt-[3vh] px-[3vw] py-[1vh] rounded-full bg-[#dadada] text-zinc-900 border-[.1vw]'>choose a plan</button>
+                <button className='mt-[3vh] px-[3vw] py-[1vh] rounded-full bg-[#dadada] shadow-lg hover:shadow-xl hover:bg-[#ab4a34] transition-shadow duration-300 text-zinc-900 border-[.1vw]'>choose a plan</button>
                </div>
             </div>
 
