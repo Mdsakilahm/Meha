@@ -53,7 +53,7 @@ function Lastpage() {
             <div className='comment w-[75vw]  h-[40vh] rounded-2xl  border-[.1vw] border-zinc-700'></div>
 
             </div>
-            <button className='px-[4vw] py-[1.5vw] rounded-full font-semibold mt-[5vh] bg-green-400 border-[.1vw] border-zinc-700 '>Send Message</button>
+            <button className='px-[3vw] py-[1vw] rounded-full font-semibold mt-[5vh] shadow-lg hover:shadow-xl hover:bg-[#0d0f28] hover:text-[#fffdfd] transition-shadow duration-300 bg-green-400 border-[.1vw] border-zinc-700 '>Send Message</button>
 
 
         </div>

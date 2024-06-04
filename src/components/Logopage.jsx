@@ -4,18 +4,18 @@ function Logopage() {
   return (
     <div className='w-full flex flex-col gap-[2vw]  items-center justify-center h-[100vh]'>
         <div className=' flex items-center text-[6vw] justify-center gap-[3vw]   '>
-            <div className=' w-[12vw] h-[12vw] rounded-full bg-center bg-cover bg-[url("https://www.zarla.com/images/wwf-logo-2400x2400-20220512.png?crop=1:1,smart&width=150&dpr=2")] border-[.1vw] border-zinc-900 '></div>
-            <div className=' w-[12vw] h-[12vw] rounded-full bg-center bg-cover bg-[url("https://www.zarla.com/images/wwf-logo-2400x2400-20220512.png?crop=1:1,smart&width=150&dpr=2")] border-[.1vw] border-zinc-900'></div>
-            <div className=' w-[12vw] h-[12vw] rounded-full bg-center bg-cover bg-[url("https://www.zarla.com/images/wwf-logo-2400x2400-20220512.png?crop=1:1,smart&width=150&dpr=2")] border-[.1vw] border-zinc-900'></div>
-            <div className=' w-[12vw] h-[12vw] rounded-full bg-center bg-cover bg-[url("https://www.zarla.com/images/wwf-logo-2400x2400-20220512.png?crop=1:1,smart&width=150&dpr=2")] border-[.1vw] border-zinc-900'></div>
-            <div className=' w-[12vw] h-[12vw] rounded-full bg-center bg-cover bg-[url("https://www.zarla.com/images/wwf-logo-2400x2400-20220512.png?crop=1:1,smart&width=150&dpr=2")] border-[.1vw] border-zinc-900'></div>
+            <div className=' w-[12vw] h-[12vw] rounded-full hover:scale-125 shadow-lg cursor-pointer  hover:shadow-xl bg-center bg-cover bg-[url("https://i.pinimg.com/originals/1e/c1/d2/1ec1d2ce366d1f603b1bde70ae508063.png")] border-[.1vw] border-zinc-900 '></div>
+            <div className=' w-[12vw] h-[12vw] rounded-full hover:scale-125 shadow-lg cursor-pointer  hover:shadow-xl bg-center bg-cover bg-[url("https://i.pinimg.com/originals/1e/c1/d2/1ec1d2ce366d1f603b1bde70ae508063.png")] border-[.1vw] border-zinc-900'></div>
+            <div className=' w-[12vw] h-[12vw] rounded-full hover:scale-125 shadow-lg cursor-pointer  hover:shadow-xl bg-center bg-cover bg-[url("https://i.pinimg.com/originals/1e/c1/d2/1ec1d2ce366d1f603b1bde70ae508063.png")] border-[.1vw] border-zinc-900'></div>
+            <div className=' w-[12vw] h-[12vw] rounded-full hover:scale-125 shadow-lg cursor-pointer  hover:shadow-xl bg-center bg-cover bg-[url("https://i.pinimg.com/originals/1e/c1/d2/1ec1d2ce366d1f603b1bde70ae508063.png")] border-[.1vw] border-zinc-900'></div>
+            <div className=' w-[12vw] h-[12vw] rounded-full hover:scale-125 shadow-lg cursor-pointer  hover:shadow-xl bg-center bg-cover bg-[url("https://i.pinimg.com/originals/1e/c1/d2/1ec1d2ce366d1f603b1bde70ae508063.png")] border-[.1vw] border-zinc-900'></div>
         </div>
         <div className=' flex items-center text-[6vw] justify-center gap-[3vw]   '>
-            <div className=' w-[12vw] h-[12vw] rounded-full bg-center bg-cover bg-[url("https://www.zarla.com/images/walmart-logo-2400x2400-20220513-2.png?crop=1:1,smart&width=150&dpr=2")] border-[.1vw] border-zinc-900 '></div>
-            <div className=' w-[12vw] h-[12vw] rounded-full bg-center bg-cover bg-[url("https://www.zarla.com/images/walmart-logo-2400x2400-20220513-2.png?crop=1:1,smart&width=150&dpr=2")] border-[.1vw] border-zinc-900'></div>
-            <div className=' w-[12vw] h-[12vw] rounded-full bg-center bg-cover bg-[url("https://www.zarla.com/images/walmart-logo-2400x2400-20220513-2.png?crop=1:1,smart&width=150&dpr=2")] border-[.1vw] border-zinc-900'></div>
-            <div className=' w-[12vw] h-[12vw] rounded-full bg-center bg-cover bg-[url("https://www.zarla.com/images/walmart-logo-2400x2400-20220513-2.png?crop=1:1,smart&width=150&dpr=2")] border-[.1vw] border-zinc-900'></div>
-            <div className=' w-[12vw] h-[12vw] rounded-full bg-center bg-cover bg-[url("https://www.zarla.com/images/walmart-logo-2400x2400-20220513-2.png?crop=1:1,smart&width=150&dpr=2")] border-[.1vw] border-zinc-900'></div>
+            <div className=' w-[12vw] h-[12vw] rounded-full hover:scale-125 shadow-lg cursor-pointer  hover:shadow-xl bg-center bg-cover bg-[url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTODz9DFOrovnLhtRMLELPhh_IlD3KMYIk_zg&s")] border-[.1vw] border-zinc-900 '></div>
+            <div className=' w-[12vw] h-[12vw] rounded-full hover:scale-125 shadow-lg cursor-pointer  hover:shadow-xl bg-center bg-cover bg-[url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTODz9DFOrovnLhtRMLELPhh_IlD3KMYIk_zg&s")] border-[.1vw] border-zinc-900'></div>
+            <div className=' w-[12vw] h-[12vw] rounded-full hover:scale-125 shadow-lg cursor-pointer  hover:shadow-xl bg-center bg-cover bg-[url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTODz9DFOrovnLhtRMLELPhh_IlD3KMYIk_zg&s")] border-[.1vw] border-zinc-900'></div>
+            <div className=' w-[12vw] h-[12vw] rounded-full hover:scale-125 shadow-lg cursor-pointer  hover:shadow-xl bg-center bg-cover bg-[url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTODz9DFOrovnLhtRMLELPhh_IlD3KMYIk_zg&s")] border-[.1vw] border-zinc-900'></div>
+            <div className=' w-[12vw] h-[12vw] rounded-full hover:scale-125 shadow-lg cursor-pointer  hover:shadow-xl bg-center bg-cover bg-[url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTODz9DFOrovnLhtRMLELPhh_IlD3KMYIk_zg&s")] border-[.1vw] border-zinc-900'></div>
         </div>
         <div className='w-[90vw] py-[2vw] flex   '>
             <div className='flex w-[45vw] items-center font-bold text-[2vw] px-[4vw] '>
