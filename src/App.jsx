@@ -6,6 +6,7 @@ import Logopage from './components/Logopage'
 import Fourbox from './components/Fourbox'
 import Nextfourbox from './components/Nextfourbox'
 import Pricingboxpage from './components/Pricingboxpage'
+import Lastpage from './components/Lastpage'
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Fourbox/>
       <Nextfourbox/>
       <Pricingboxpage/>
+      <Lastpage/>
     </div>
   )
 }
