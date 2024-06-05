@@ -3,7 +3,7 @@ import React from 'react'
 
 function Landingpage() {
   return (
-    <motion.div initial={{ y: "-100%" }} animate={{ y:"0%" }} transition={{ ease: [0.61, 1, 0.88, 1], duration:.8 }} className='w-full flex flex-col items-center h-[80vh] bg-[#a8d1df]'>
+    <motion.div initial={{ y: "-100%" }} animate={{ y:"0%" }} transition={{ ease: [0.61, 1, 0.88, 1], duration:.8 }} className='w-full flex flex-col items-center h-[75vh]  bg-[#a8d1df]'>
         <div className='Heading flex text-[5vw] font-bold justify-center w-full h-[30vh] '>
             <h1 className='tracking-tight py-[4vw] leading-[5vw] '>Automate and Simplify <br /><span className='ml-[10vw]'></span> web Scraping</h1>
         </div>
